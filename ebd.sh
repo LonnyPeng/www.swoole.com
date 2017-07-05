@@ -7,4 +7,4 @@ git commit -m 'auto'
 git checkout master
 
 git pull origin master
-git push origin master && LonnyPeng
+git push origin master
